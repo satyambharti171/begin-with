@@ -6,3 +6,10 @@ _First repo_
 
 [__GitHub__](www.github.com)
 ##
+
+## Contributions:
+
+- Anshika Soni
+- Ankit Anmol
+- Rabia Umar
+
